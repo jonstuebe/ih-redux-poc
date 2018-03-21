@@ -1,0 +1,34 @@
+{
+	"name": "redux-poc-fork",
+	"version": "1.0.0",
+	"description": "",
+	"keywords": [],
+	"homepage": "https://codesandbox.io/s/new",
+	"main": "src/index.js",
+	"dependencies": {
+		"@waypointhomes/redux-thunk-actions": "1.1.6",
+		"antd": "3.3.1",
+		"faker": "4.1.0",
+		"grid-styled": "3.2.1",
+		"lodash": "4.17.5",
+		"normalizr": "3.2.4",
+		"prop-types": "latest",
+		"react": "16.2.0",
+		"react-dom": "16.2.0",
+		"react-redux": "latest",
+		"react-scripts": "1.1.0",
+		"reduce-reducers": "0.1.2",
+		"redux": "3.7.2",
+		"redux-actions": "2.3.0",
+		"redux-thunk": "latest",
+		"reselect": "3.0.1",
+		"styled-components": "3.2.3"
+	},
+	"devDependencies": {},
+	"scripts": {
+		"start": "react-scripts start",
+		"build": "react-scripts build",
+		"test": "react-scripts test --env=jsdom",
+		"eject": "react-scripts eject"
+	}
+}
